@@ -6,4 +6,4 @@
 ### Cppcheck Analysis
 [![Cppcheck Analysis](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/cppcheck_analysis.yml)
 ### Unit Testing
-[![Unit Testing - unity]]
+[![Unit Testing - Unity](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/unit_testing.yml)
