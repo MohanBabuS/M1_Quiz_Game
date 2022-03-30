@@ -40,8 +40,19 @@
 ### How:
   How to develop an Android quiz app: create a category for the questions and an image for it, upload a background
 ## High Level Requirements
-
+ | ID | Description | Cateogery | Status |
+ | ---|:------------|:----------|:-------|
+ | HRO1 | user can be able to access download score record  | Technical | IMPLEMENTED |
+ | HR02 | user can be able to access reset score | Technical | IMPLEMENTED |
+ | HR03 | user can be able to access help | Technical | IMPLEMENTED |
+ | HR04 | user can be able to edit score | Technical | IMPLEMENTED |
 
 
 
 ## Low Level REquirements
+ | ID | Description | HLR ID | Status(IMPLEMENTED/FUTURE) |
+ | ---|:------------|:----------|:-------|
+ | LRO1 | user must choose the option for show record for download score recorded file | HR01 | IMPLEMENTED |
+ | LR02 | same operation for reset score for reset/restart the game | HR02 | IMPLEMENTED |
+ | LR03 | user must choose the option for help for instructions of the game| HR03 | IMPLEMENTED |
+ | LR04 | user must choose the option for editing the game recorded scores | HR04 | IMPLEMENTED |

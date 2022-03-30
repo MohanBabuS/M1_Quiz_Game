@@ -21,7 +21,7 @@ int main()
      printf("\n\t\t > Press R ->Reset score");
      printf("\n\t\t > press H ->Help");
      printf("\n\t\t > press Q -> Exit ");
-     choice=toupper(getch());
+     choice=toupper(getc());
      if (choice=='V')
 	{
 	show_record();
