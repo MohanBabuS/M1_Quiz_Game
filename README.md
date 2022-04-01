@@ -13,3 +13,5 @@
 ![Codiga](https://api.codiga.io/project/32364/score/svg)
 ### Build on Windows
 [![Build CI -  Windows](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/build_windows.yml/badge.svg)](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/build_windows.yml)
+### Valgrind
+[![Valgrind](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/valgrind.yml/badge.svg)](https://github.com/MohanBabuS/M1_Quiz_Game/actions/workflows/valgrind.yml)
