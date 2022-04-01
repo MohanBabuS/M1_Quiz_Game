@@ -1,11 +1,31 @@
+/**
+ * @file quiz.c
+ * @author Mohan Babu S  (mohanbabu.s.2018.ece@ritchennai.edu.in)
+ * @brief This is the main program where the project is run
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
+/* Display score records */
 void show_record();
+/* Reset score */
 void reset_score();
+/* Help for gamer */
 void help();
+/* Edit scores */
 void edit_score(float , char []);
+/* Start of the application */
+/**
+ * @brief Main program
+ * @return int
+ * @return int 
+ */
 int main()
      {
      int countr,r,r1,count,i,n;
