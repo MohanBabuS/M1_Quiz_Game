@@ -12,7 +12,7 @@
  * Everyone can benefit from this stress reliever.
  * Improves your ability to think on your feet.
 ## Costs and Features
-### FEatures
+### Features
  * Leaderboard.
  * Timer for the quiz.
  * Show the quiz result as a percentage.
